@@ -30,11 +30,12 @@ Is ice coverage trending *upward* over time for any lake?
 **Dataset :**
 Great Lakes Historical Ice Coverage 1973 to 2020.xlsx
 
-**
-Solution :**
+**Solution :**
 
 UI : ![image](https://github.com/user-attachments/assets/26f368ad-5fdc-4aef-8fc7-045aa69d77e0)
 
-Ans : 1) Lake Erie has froxzen completely over most often.
-      2) No, For all lake ice coverage treding "Downword" over time 
+Ans :
+1) Lake Erie has froxzen completely over most often.
+
+2) No, For all lake ice coverage treding "Downword" over time 
 
