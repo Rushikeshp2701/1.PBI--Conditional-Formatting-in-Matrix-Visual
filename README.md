@@ -1,5 +1,5 @@
-# PBI :- 2021_week7
-Power BI: Conditional Formatting in Matrix Visual
+# PBI :- Conditional Formatting in Matrix Visual
+Power BI: 2021 week_7
 
 Dashboard UI :
 ![image](https://github.com/user-attachments/assets/e46e0237-cb27-421b-886e-15b9f73b6c8e)
